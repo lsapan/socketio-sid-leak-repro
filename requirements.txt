@@ -1,0 +1,5 @@
+python-socketio==5.7.1
+python-engineio==4.3.4
+redis==4.3.4
+hiredis==2.0.0
+eventlet==0.33.1
